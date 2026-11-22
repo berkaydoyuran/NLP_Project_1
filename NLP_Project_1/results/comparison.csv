@@ -1,0 +1,8 @@
+Metric,Prompt-only,Schema-constrained
+raw_json_rate,1.0,1.0
+cleaned_json_rate,1.0,1.0
+schema_rate,0.95,1.0
+classification_accuracy,0.67,0.7
+entity_micro_precision,0.7649513212795549,0.7686170212765957
+entity_micro_recall,0.3979739507959479,0.4182344428364689
+entity_micro_f1,0.5235602094240838,0.5417057169634489
